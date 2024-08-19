@@ -1,1 +1,30 @@
 # Ml_housing_price_prediction
+End-to-end Machine Learning project
+Welcome to Machine Learning Housing Corp.! THe task is to predict median house values in Californian districts, given a number of features from these districts.
+![image](https://github.com/user-attachments/assets/b4202d32-9079-4e8c-8102-9a15018e0461)
+![image](https://github.com/user-attachments/assets/0388646d-da3d-4013-a8bc-a9bec9343501)
+![image](https://github.com/user-attachments/assets/e127e574-f356-4888-96fa-8443c657cfe0)
+![image](https://github.com/user-attachments/assets/3babf8f5-7203-4f06-b74a-4c896d2be6db)
+![image](https://github.com/user-attachments/assets/ed24681b-82af-475b-9415-6520d2601581)
+![image](https://github.com/user-attachments/assets/3f457fb3-fdd1-49c9-8d92-f453d5d164ff)
+![image](https://github.com/user-attachments/assets/9d503504-3658-40b5-b191-09044b8c1e96)
+![image](https://github.com/user-attachments/assets/cfa5e9c5-334f-4f97-8797-248e801bd274)
+![image](https://github.com/user-attachments/assets/47f28c52-1058-4c49-a5c1-c1f2aeee96b0)
+![image](https://github.com/user-attachments/assets/a0279c09-ea96-4787-b16c-c692e6bfdb2a)
+![image](https://github.com/user-attachments/assets/d7e2d744-a216-4b39-b9d3-78f488672056)
+![image](https://github.com/user-attachments/assets/6670aacd-1437-4b60-a4c1-4010ee8f1d46)
+![image](https://github.com/user-attachments/assets/d2c3a321-8030-4baa-b10b-813dd582d82d)
+![image](https://github.com/user-attachments/assets/4683c9bd-512b-4a73-9496-b548d4a3dcdf)
+![image](https://github.com/user-attachments/assets/c959a0b4-00f7-48ee-afd2-2fa9f844528a)
+![image](https://github.com/user-attachments/assets/412b6300-348f-46a8-87d7-e38c3bf983c6)
+![image](https://github.com/user-attachments/assets/3cb7a9c2-4942-4f8c-9d9b-443d6042ac04)
+![image](https://github.com/user-attachments/assets/f6a8c327-e538-4478-9871-b6cf5fa01da1)
+![image](https://github.com/user-attachments/assets/35914a48-b297-49c3-8d4d-071101f7449e)
+![image](https://github.com/user-attachments/assets/2ff7d5b8-f4a7-4a69-8f25-a594e39e4731)
+![image](https://github.com/user-attachments/assets/58dbcf0e-ae4b-4ede-aca9-0e12b6917c4b)
+![image](https://github.com/user-attachments/assets/8cbb8f41-9275-4e7a-bf51-02a9991964a8)
+![image](https://github.com/user-attachments/assets/3fb6fa13-cdbc-419c-bc4f-ab9a4b70b13d)
+![image](https://github.com/user-attachments/assets/a38812aa-302e-49cd-9300-0e6723795ad0)
+End RESULT
+![image](https://github.com/user-attachments/assets/9838335c-01b6-4997-8b50-1c8a0e8ccea1)
+
